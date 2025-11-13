@@ -24,7 +24,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 
 import java.util.List;
-//faz o processo antes das execuções
 
 public class MainActivity extends AppCompatActivity implements MedicationAdapter.OnMedicationClickListener {
 
